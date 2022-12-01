@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using AdventOfCode._2022.Tools;
+using AdventOfCode.Tools;
 
-namespace AdventOfCode._2022.Day_1
+namespace AdventOfCode._2022
 {
     public class Day1
     {

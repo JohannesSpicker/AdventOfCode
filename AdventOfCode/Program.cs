@@ -1,14 +1,19 @@
-﻿using System;
-using AdventOfCode._2022.Day_1;
-
-namespace AdventOfCode
+﻿namespace AdventOfCode
 {
     internal class Program
     {
         private static void Main(string[] args)
         {
-            //Day1.PrintSolution1();
-            Day1.PrintSolution2();
+            //2021
+            //_2021.Day1.PrintSolution1();
+            //_2021.Day1.PrintSolution2();
+
+            //_2021.Day2.PrintSolution1();
+            _2021.Day2.PrintSolution2();
+
+            //2022
+            //2022.Day1.PrintSolution1();
+            //2022.Day1.PrintSolution2();
         }
     }
 }
